@@ -1,5 +1,5 @@
 # 💫 About Me:
-¡Hola! 👋, I'm Evelyn Eduards<br>A passionate frontend developer from Argentina<br>🔭 I'm currently don't have a job but i constantly study, for example, now i study react 🌱<br>Therefore, If you like what I do and you are looking for someone who wants to improve themselves all the time, contact me. 🤝<br>💬 Ask me about HTML, CSS, JavaScript and UX/UI Design<br>📫 How to reach me evelyneduards26@gmail.com<br>👨‍💻 All of my UX/UI proyects are available at https://www.behance.net/evelyneduards1<br>📝 But, my front-end developer proyects are available at GITHUB<br>📄 Know about my experiences https://Mi-CV.evelyn-eduards.repl.co<br>
+¡Hello! 👋, I'm Evelyn Eduards<br>A passionate frontend developer from Argentina<br>🔭 I'm currently don't have a job but i constantly study, for example, now i study react 🌱<br>Therefore, If you like what I do and you are looking for someone who wants to improve themselves all the time, contact me. 🤝<br>💬 Ask me about HTML, CSS, JavaScript and UX/UI Design<br>📫 How to reach me evelyneduards26@gmail.com<br>👨‍💻 All of my UX/UI proyects are available at https://www.behance.net/evelyneduards1<br>📝 But, my front-end developer proyects are available at GITHUB<br>📄 Know about my experiences https://Mi-CV.evelyn-eduards.repl.co<br>
 
 
 ## 🌐 Socials:
