@@ -1,5 +1,5 @@
 # 💫 About Me:
-<h1 align="center">¡Hola! 👋, I'm Evelyn Eduards</h1>
+<h1 align="center">¡Hi! 👋, I'm Evelyn Eduards</h1>
 <h3 align="center">A passionate developer trainee from Argentina</h3>
 
 - 👨‍💻 All of my UX/UI proyects are available at [https://www.behance.net/evelyneduards1](https://www.behance.net/evelyneduards1)
