@@ -2,9 +2,7 @@
 <h1 align="center">¡Hi! 👋, I'm Evelyn Eduards</h1>
 <h3 align="center">A passionate developer trainee from Argentina</h3>
 
-- 👨‍💻 All of my UX/UI proyects are available at [https://www.behance.net/evelyneduards1](https://www.behance.net/evelyneduards1)
-
-- 📝 But, my developer proyects are available at GITHUB [https://github.com/EvelynEduards](https://github.com/EvelynEduards)
+- 📝 My developer proyects are available at GITHUB [https://github.com/EvelynEduards](https://github.com/EvelynEduards)
 
 - 📫 How to reach me **evelyneduards26@gmail.com**
 
