@@ -1,6 +1,6 @@
 # 💫 About Me:
 <h1 align="center">¡Hi! 👋, I'm Evelyn Eduards</h1>
-<h3 align="center">A passionate developer trainee from Argentina</h3>
+<h3 align="center">A passionate developer jr from Argentina</h3>
 
 - 📝 My developer proyects are available at GITHUB [https://github.com/EvelynEduards](https://github.com/EvelynEduards)
 
