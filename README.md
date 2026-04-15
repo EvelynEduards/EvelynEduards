@@ -7,7 +7,7 @@
 
 ## 🧠 About me
 - 🔧 Working with: Angular, JavaScript, n8n, Firebase  
-- 📚 Studying Programming (UTN)  
+- 📚 I am studying for a university technical degree in programming at the National Technological University 
 
 ---
 
